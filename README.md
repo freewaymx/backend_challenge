@@ -113,6 +113,6 @@ Use the following steps:
   - Create a new branch from my base branch, the name can be: `feat/name-of-the-feature`
   - Submit my changes to my recently created branch (`feat/name-of-the-feature`)
   - Create a PR from `feat/name-of-the-feature` to `base/your_user_name`
-  - Ask for CR to @alberto or @aherredev
+  - Ask for CR to @AlbertoRoGlez or @aherredev
   - Squash and merge the PR if it's accepted
 
