@@ -2,7 +2,24 @@
 This repo will contain the backend challenge code, which is a small Coffee shop API (OPTIONAL GraphQL)
 
 ## Index
-
+- [BackEnd Challenge (Coffee Shop)](#backend-challenge--coffee-shop-)
+  * [Index](#index)
+  * [Goal](#goal)
+    + [Bonus points](#bonus-points)
+  * [User Stories](#user-stories)
+    + [Users creation](#users-creation)
+    + [User's auth](#users-auth)
+    + [Coffee's products](#coffees-products)
+    + [Coffee's products E-Commerce](#coffees-products-e-commerce)
+  * [Technical Details](#technical-details)
+    + [Models](#models)
+      - [User](#user)
+      - [Product](#product)
+      - [Invoice](#invoice)
+    + [Business Logic](#business-logic)
+  * [Resources](#resources)
+  * [Requirements](#requirements)
+  * [How to start?](#how-to-start)
 
 ## Goal
 The goal of this Challenge is to create a WEB API that allow us to login, Sign In and Log Out users, create/update/list coffee products
