@@ -3,5 +3,16 @@
 #
 # Examples:
 #
-#   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
-#   Character.create(name: "Luke", movie: movies.first)
+user = User.create(
+  full_name: 'IvanGodinez21',
+  password: 'IvanGodinez21',
+  email: 'ivano.godinez@gmail.com',
+  uuid: '1234567890'
+)
+
+Product.create(
+  title: 'Mocka',
+  description: 'Mocka',
+  price: '$50',
+  created_by: user.id
+)
